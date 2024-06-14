@@ -7,13 +7,15 @@ description: Step-by-step guide to registering your car in Donostia, Spain.
 <!-- Meta tags for SEO -->
 <meta name="keywords" content="car registration, Donostia, Basque Country, Spain,
 DGT, vehicle registration, how to register car, guía de registro de vehículos,
+San Sebastián,
 Matricular un vehículo proveniente de la UE en España,
 Impuesto de matriculación,
 Dirección General De Tráfico De Guipúzcoa,
 Impuesto de Circulación,
+permisso de circulacion
 MATRICULACIÓN DE VEHÍCULOS NUEVOS Y VEHÍCULOS PROVENIENTES DEL EXTRANJERO,
 cómo registrar coche">
-<meta name="description" content="Step-by-step guide to registering your car in [City Name]. Guía paso a paso para registrar su coche en [Nombre de la Ciudad].">
+<meta name="description" content="Step-by-step guide to registering your car in Donostia, Spain">
 <meta name="author" content="Mazen Ali">
 
 # How to Transfer Your EU Registered Vehicle to Donostia, Basque Country, Spain
@@ -87,12 +89,18 @@ Cost: about 99.77 EUR. Expect to spend an hour at the appointment. You will not 
 
 ## Step 6: Car Insurance
 
-As soon as you get the registration papers and your license plate numbers, get a car insurance. Ideally, do this before you change your plates. You can compare insurances here: https://www.acierto.com/a/comparador-seguros-coche.php?a=4406&b=acierto&c=s&d=569689562330&e=&n=xub&gad_source=1&gclid=CjwKCAjw1K-zBhBIEiwAWeCOF1ZBmvx9UqUbxZIQ6ESuFiK8RVXEJD2JhcwOy6vSbMlBzLB4-aCHDxoCZR0QAvD_BwE
-This can be done within a day, online and by phone. Costs anywhere between 200 and 500 EUR per year. Some insurers will tell you an EU driver's license is not enough, and you need a Spanish driver's license. This is BS, so safely ignore or go to a different insurer.
+As soon as you get the registration papers and your license plate numbers, get a car insurance.
+Ideally, do this before you change your plates.
+You can compare insurances at https://www.acierto.com.
+This can be done within a day, online and by phone.
+Costs anywhere between 200 and 500 EUR per year.
+Some insurers will tell you an EU driver's license is not enough, and you need a Spanish driver's license.
+This is BS, so safely ignore or go to a different insurer.
 
 ## Step 7: License Plates
 
-Finally, go to a car mechanic shop and order your license plates. You will need the DGT permisso de circulacion with the registration number. This will take 1-2 days, costs about 20 EUR.
+Finally, go to a car mechanic shop and order your license plates.
+You will need the DGT permisso de circulacion with the registration number. This will take 1-2 days, costs about 20 EUR.
 
 ## Step 8: Deregstriation in Country of Origin
 
