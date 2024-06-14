@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: "Car Registration Donostia"
+description: "Step-by-step guide to registering your car in Donostia, Spain."
