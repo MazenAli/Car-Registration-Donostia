@@ -21,11 +21,13 @@ cómo registrar coche">
 # How to Transfer Your EU Registered Vehicle to Donostia, Basque Country, Spain
 
 Hello and welcome to my step-by-step guide
-to the unnecessary complicated process of registering an EU vehicle in Donostia, Basque Country.
+to the unnecessary complicated process of registering a EU vehicle in Donostia, Basque Country.
 As a prerequisite, you will need your NIE, residency ("empadronamiento"),
 and a Spanish phone number for this.
 You need to do the steps in this order, sequentially, as each step requires the last.
 For all papers, it's best to bring the originals and 2–3 copies, although they *should* usually make copies themselves.
+
+## Date: June 15th, 2024
 
 ## Step(s) 0: Prerequisites
 
@@ -44,12 +46,19 @@ Closest to Donostia is ITV Urnieta (https://www.itevelesa.com/es/nuestras-estaci
 - EU certificate of conformity (COC). If you don't have one, you can get one made in Donostia. Beware of some dealerships offering this service for a hefty sum. You can get it for free if you find a dealer for the same brand as the make of your car.
 - Proof of purchase. I used the contract of purchase. The national tax ID number should be on the invoice, if you bought from a business.
 - Warning: you will not get your inspection papers (ficha tecnica) on the same day, you will have to come back in 3–5 days.
+No need for an appointment for the 2nd time, but you might want to call and ask if the documents
+are ready
 
 Cost: about 110 EUR. Expect to spend at least 2 hours at the ITV on your first appointment, only about 20 minutes on the 2nd.
 
 ## Step 2: Registration Tax
 
-There are 2 types of taxes for the transferring your car: registration tax and road tax. You only have to pay the latter! See (https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/vehiculos/traslado/impuesto.html). For the registration tax, Impuesto de matriculación, make an appointment at the tax office, (https://www.gipuzkoa.eus/es/web/ogasuna), Diputación Foral de Gipuzkoa, located at Errotaburu Pasealekua, 2, 20018 Donostia, Gipuzkoa.
+There are 2 types of taxes for transferring your car:
+registration tax and road tax. You only have to pay the latter! See
+https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/vehiculos/traslado/impuesto.html.
+For the registration tax, Impuesto de matriculación, make an appointment at the tax office
+https://www.gipuzkoa.eus/es/web/ogasuna, Diputación Foral de Gipuzkoa,
+located at Errotaburu Pasealekua, 2, 20018 Donostia, Gipuzkoa.
 
 You will need:
 - Passport
@@ -66,11 +75,26 @@ Cost: 0 EUR. Expect to spend 1 hour at the appointment. You will get the tax exe
 
 Pay the road tax, impuesto de circulacion. Make an appointment here: https://www.donostia.eus/AurreHitzordua/udalinfo/aa14aBusqueda.jsp?lang=es, and go here: Ijentea Kalea, 6, 20003 Donostia, Gipuzkoa.
 
-Cost: varies, roughly 60 EUR for me. Expect to spend about 30 minutes at the appointment, get the proof of payment on the spot.
+You will need:
+- Passport
+- NIE
+- Empadronamiento
+- Home country car papers: reg. certificate parts I and II, COC.
+- ITV papers, ficha tecnica.
+- Forms 030 and 565 you received in Step 2.
+
+Cost: varies, roughly 60 EUR for me.
+Expect to spend about 30 minutes at the appointment, get the proof of payment on the spot.
 
 ## Step 4: DGT Online Appointment
 
-Make an appointment at the DGT for matriculacion. The appointments are made online only, here: https://sede.dgt.gob.es/es/otros-tramites/cita-previa/. The system is trash because the appointments are "all out" in 5 minutes after "opening", as if the internet is some kind of finite, precious resource. You can only "click" on the appointment during work hours, but as soon as possible, ideally at 9:00 am. If they're out, try again the next day...
+Make an appointment at the DGT for matriculacion.
+The appointments are made online only,
+here: https://sede.dgt.gob.es/es/otros-tramites/cita-previa/.
+The system is trash because the appointments are "all out" in 5 minutes after "opening",
+as if the internet is some kind of finite, precious resource.
+You can only "click" on the appointment during work hours, but as soon as possible, ideally at 9:00 am.
+If they're out, try again the next day...
 
 ## Step 5: DGT Appointment
 
@@ -85,7 +109,10 @@ On the day of the appointment, you will go here: Julio Caro Baroja Plaza, 2, 200
 - Proof of road tax payment, point 3.
 - Form Mod-01: https://sede.dgt.gob.es/export/sites/dgt/.galleries/modelos-solicitud/01/Mod.01-ES.pdf
 
-Cost: about 99.77 EUR. Expect to spend an hour at the appointment. You will not get the registration on the spot and will have to come back in a couple of days, without an appointment. Beware, once you pick up your registration papers, you will have to give them the originals of your car papers from the home country. If you need these to deregister your car at home, make necessary preparations beforehand.
+Cost: 99.77 EUR. Expect to spend about 30 minutes at the appointment.
+You will not get the registration on the spot and will have to come back in a couple of days, without an appointment.
+Beware, once you pick up your registration papers, you will have to give them the originals of your car papers from the home country.
+If you need these to deregister your car at home, make the necessary preparations beforehand.
 
 ## Step 6: Car Insurance
 
@@ -94,13 +121,14 @@ Ideally, do this before you change your plates.
 You can compare insurances at https://www.acierto.com.
 This can be done within a day, online and by phone.
 Costs anywhere between 200 and 500 EUR per year.
-Some insurers will tell you an EU driver's license is not enough, and you need a Spanish driver's license.
+Some insurers will tell you a EU driver's license is not enough, and you need a Spanish driver's license.
 This is BS, so safely ignore or go to a different insurer.
 
 ## Step 7: License Plates
 
 Finally, go to a car mechanic shop and order your license plates.
-You will need the DGT permisso de circulacion with the registration number. This will take 1-2 days, costs about 20 EUR.
+You will need the DGT permisso de circulacion with the registration number.
+This will take 1-2 days, costs about 20-30 EUR.
 
 ## Step 8: Deregstriation in Country of Origin
 
