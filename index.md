@@ -47,7 +47,7 @@ Closest to Donostia is ITV Urnieta (https://www.itevelesa.com/es/nuestras-estaci
 - Proof of purchase. I used the contract of purchase. The national tax ID number should be on the invoice, if you bought from a business.
 - Warning: you will not get your inspection papers (ficha tecnica) on the same day, you will have to come back in 3–5 days.
 No need for an appointment for the 2nd time, but you might want to call and ask if the documents
-are ready
+are ready.
 
 Cost: about 110 EUR. Expect to spend at least 2 hours at the ITV on your first appointment, only about 20 minutes on the 2nd.
 
