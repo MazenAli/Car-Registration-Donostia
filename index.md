@@ -51,7 +51,7 @@ are ready.
 
 Cost: about 110 EUR. Expect to spend at least 2 hours at the ITV on your first appointment, only about 20 minutes on the 2nd.
 
-Beware that processing foreign-registered cars in the evening could be problematic. If they give you an appointment after 19h, make really sure that they understand you do not have a Spanish registration at the moment.
+Beware that processing foreign-registered cars in the evening could be problematic. If they give you an appointment after 19h, make sure that they understand you do not have a Spanish registration at the moment.
 
 ## Step 2: Registration Tax
 
