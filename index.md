@@ -39,9 +39,9 @@ For all papers, it's best to bring the originals and 2–3 copies, although they
 
 Closest to Donostia is ITV Urnieta (https://www.itevelesa.com/es/nuestras-estaciones/itv-urnieta). The online appointments won't work with a foreign license plate number. Call 943550000, press 1 for Euskera (even if you don't speak Euskera), ask there for an appointment for a foreign vehicle. They *should* tell you what you need. But they're not always accurate, so just in case, see below. Note: none of these documents have to be translated into Spanish!
 
-- Passport
-- NIE
-- Empadronamiento (just in case)
+- Passport.
+- NIE.
+- Empadronamiento (just in case).
 - Home country car registration certificates, e.g., for Germans, part I and II, i.e., the vehicle registration document and the title document.
 - EU certificate of conformity (COC). If you don't have one, you can get one made in Donostia. Beware of some dealerships offering this service for a hefty sum. You can get it for free if you find a dealer for the same brand as the make of your car.
 - Proof of purchase. I used the contract of purchase. The national tax ID number should be on the invoice, if you bought from a business.
@@ -63,9 +63,9 @@ https://www.gipuzkoa.eus/es/web/ogasuna, Diputación Foral de Gipuzkoa,
 located at Errotaburu Pasealekua, 2, 20018 Donostia, Gipuzkoa.
 
 You will need:
-- Passport
-- NIE
-- Empadronamiento
+- Passport.
+- NIE.
+- Empadronamiento.
 - Home country car papers: reg. certificate parts I and II, COC.
 - ITV papers, ficha tecnica.
 - Fill out form 030: https://www.gipuzkoa.eus/es/web/ogasuna/impuestos/modelo/030
@@ -78,9 +78,9 @@ Cost: 0 EUR. Expect to spend 1 hour at the appointment. You will get the tax exe
 Pay the road tax, impuesto de circulacion. Make an appointment here: https://www.donostia.eus/AurreHitzordua/udalinfo/aa14aBusqueda.jsp?lang=es, and go here: Ijentea Kalea, 6, 20003 Donostia, Gipuzkoa.
 
 You will need:
-- Passport
-- NIE
-- Empadronamiento
+- Passport.
+- NIE.
+- Empadronamiento.
 - Home country car papers: reg. certificate parts I and II, COC.
 - ITV papers, ficha tecnica.
 - Forms 030 and 565 you received in Step 2.
@@ -102,9 +102,9 @@ If they're out, try again the next day...
 
 On the day of the appointment, you will go here: Julio Caro Baroja Plaza, 2, 20018 Donostia, Gipuzkoa. You need:
 
-- Passport
-- NIE
-- Empadronamiento
+- Passport.
+- NIE.
+- Empadronamiento.
 - Home country papers: reg. I and II, COC.
 - ITV papers, ficha tecnica.
 - Form 565 that you received at the Diputación Foral, point 2.
