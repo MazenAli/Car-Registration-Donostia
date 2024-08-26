@@ -27,7 +27,11 @@ and a Spanish phone number for this.
 You need to do the steps in this order, sequentially, as each step requires the last.
 For all papers, it's best to bring the originals and 2–3 copies, although they *should* usually make copies themselves.
 
-## Date: June 15th, 2024
+**Note**: I've been told by others that it's possible to hire someone to do all of this for you
+in a couple of weeks for around 300 - 500 EUR (although the quotes can vary a lot).
+If you don't feel like spending time and nerves on this, you might want to look into that.
+
+## Date: August 26th, 2024
 
 ## Step(s) 0: Prerequisites
 
